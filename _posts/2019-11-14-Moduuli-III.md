@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "Moduuli III oppimispäiväkirja"
+---
 Tämä moduuli rakentui Oulun WUD:in (World Usability Day) ympärille, jonka järjestäjänä toimi voittoa tavoittelematon järjestö **SIGHCI Finland**. Tapahtuman alussa kerrottiin järjestön toiminnasta ja sen tuomista eduista jäsenille, mukaanlukien pääsyn tieteellisiin tutkimuksiin ja tapahtumiin.
 
 Myöhemmin tilaisuudessa oli **LUNO**:n (LUkiolaisista Nostetta Ohjelmistoalalle) vuoro parrasvaloissa valaista tavoitteitaan houkutella lukiolaisia ohjelmistoalalle. Oli valaisevaa kuulla miksei ohjelmistoala houkuttele lukiolaisia, varsinkin epäkiinnostus stereotyyppisen itsenäisen pohdiskelevan työn takia yllätti, sillä itseäni juuri tuollainen työnkuva houkuttelee. 
