@@ -26,7 +26,7 @@ url                      : "http://tirppa.com" # the base hostname & protocol fo
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hullu198/blogi" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/Keyboard.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "assets/images/logo-150x150.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,10 +109,9 @@ analytics:
 # Site Author
 author:
   name             : "Anssi Valjakka"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A computer science student at University of Oulu."
+  avatar           : "/assets/images/Small_Kiisu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A computer science student at University of Oulu, who sometimes likes to take photos."
   location         : "Finland"
-  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -153,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/anssi_valjakka/"
 
 
 # Reading Files

@@ -1,6 +1,9 @@
 ---
 layout: single
-title:  "Moduuli III oppimispäiväkirja"
+title:  "Moduuli III"
+header:
+  image: /assets/images/Lake.jpg
+  teaser: /assets/images/Small_Lake.jpg
 ---
 Tämä moduuli rakentui Oulun WUD:in (World Usability Day) ympärille, jonka järjestäjänä toimi voittoa tavoittelematon järjestö **SIGHCI Finland**. Tapahtuman alussa kerrottiin järjestön toiminnasta ja sen tuomista eduista jäsenille, mukaanlukien pääsyn tieteellisiin tutkimuksiin ja tapahtumiin.
 

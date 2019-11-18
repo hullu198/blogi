@@ -1,6 +1,9 @@
 ---
 layout: single
-title:  "Moduuli II oppimispäiväkirja"
+title:  "Moduuli II"
+header:
+  image: /assets/images/Keyboard.jpg
+  teaser: /assets/images/Small_Keyboard.jpg
 ---
 
 En tuhlaa tulevaisuudessa sovelluskehityksessä aikaa siihen, että kaikki osaisivat käyttää kyseessä olevaa ohjelmaa. Se riittää, että kohteena oleva käyttäjäryhmä hallitsee sovelluksen käytön.
