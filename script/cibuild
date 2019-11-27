@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 JEKYLL_ENV=production bundle exec jekyll build
-sudo rsync -avr --delete-excluded --delete-after _site/ /var/www/html/
+sudo rsync -avr --delete-excluded --delete-after _site/ /var/www/tirppa.com/
